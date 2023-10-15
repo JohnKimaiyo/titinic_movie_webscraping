@@ -1,3 +1,2 @@
-state=["john","huh"]
-
-print(state)
+from bs4 import BeautifulSoup
+import requests
